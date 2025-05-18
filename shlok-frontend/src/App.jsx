@@ -40,7 +40,7 @@ function App() {
   >
     <h1>Read me When</h1>
 
-    {/* 👇 Show 3D Jar */}
+    
     <div style={{ width: "400px", height: "400px", margin: "0 auto" }}>
       <JarScene shlokTriggered={selectedShlok} />
     </div>

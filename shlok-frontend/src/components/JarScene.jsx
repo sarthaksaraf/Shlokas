@@ -15,7 +15,7 @@ const JarScene = () => {
     const height = mountEl.clientHeight;
 
     const camera = new THREE.PerspectiveCamera(75, width / height, 0.1, 1000);
-    camera.position.z = 5;
+    camera.position.z = 3;
 
     const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
     renderer.setSize(width, height);
@@ -28,10 +28,10 @@ const JarScene = () => {
     // Load GLB Model
     const loader = new GLTFLoader();
     loader.load(
-      '/jar.glb',
+      '/jar2.glb',
       (gltf) => {
         const model = gltf.scene;
-        model.scale.set(1, 1, 1);
+        model.scale.set(5, 5, 5);
         scene.add(model);
 
         // Render once after model is loaded
