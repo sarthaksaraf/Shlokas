@@ -1,0 +1,93 @@
+{
+  "info": {
+    "name": "Emotions API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get All Emotions",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3001/api/emotions",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["api", "emotions"]
+        }
+      }
+    },
+    {
+      "name": "Get Emotion by ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3001/api/emotions/0",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["api", "emotions", "0"]
+        }
+      }
+    },
+    {
+      "name": "Update Emotions (Auth Required)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Authorization",
+            "value": "Basic <base64-user:pass>",
+            "type": "text"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "[\n  {\n    \"emotion\": \"Joy\",\n    \"quote\": \"Sample\",\n    \"output\": \"Sample\",\n    \"realization_prompt\": \"Sample\",\n    \"playful_task\": \"Sample\"\n  }\n]"
+        },
+        "url": {
+          "raw": "http://localhost:3001/api/emotions/update",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["api", "emotions", "update"]
+        }
+      }
+    },
+    {
+      "name": "List Versions",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3001/api/emotions/versions",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["api", "emotions", "versions"]
+        }
+      }
+    },
+    {
+      "name": "Get Version by Filename",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3001/api/emotions/version/Emotions_YYYY-MM-DDTHH-MM-SS-SSSZ.json",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["api", "emotions", "version", "Emotions_YYYY-MM-DDTHH-MM-SS-SSSZ.json"]
+        }
+      }
+    }
+  ]
+}

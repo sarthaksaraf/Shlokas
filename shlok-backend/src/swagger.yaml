@@ -1,0 +1,95 @@
+openapi: 3.0.0
+info:
+  title: Emotions API
+  version: 1.0.0
+  description: API for managing and versioning emotions data
+servers:
+  - url: http://localhost:3001/api
+paths:
+  /emotions:
+    get:
+      summary: Get all emotions
+      responses:
+        '200':
+          description: List of emotions
+  /emotions/{id}:
+    get:
+      summary: Get emotion by index
+      parameters:
+        - in: path
+          name: id
+          schema:
+            type: integer
+          required: true
+          description: Numeric index of the emotion
+      responses:
+        '200':
+          description: Emotion object
+        '404':
+          description: Not found
+  /emotions/update:
+    post:
+      summary: Update emotions file (with backup)
+      security:
+        - basicAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                $ref: '#/components/schemas/Emotion'
+      responses:
+        '200':
+          description: Update success
+        '400':
+          description: Invalid input
+        '401':
+          description: Unauthorized
+  /emotions/versions:
+    get:
+      summary: List backup versions
+      responses:
+        '200':
+          description: List of backup filenames
+  /emotions/version/{filename}:
+    get:
+      summary: Get a specific backup version
+      parameters:
+        - in: path
+          name: filename
+          schema:
+            type: string
+          required: true
+          description: Backup filename
+      responses:
+        '200':
+          description: Emotions backup
+        '404':
+          description: Not found
+components:
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic
+  schemas:
+    Emotion:
+      type: object
+      required:
+        - emotion
+        - quote
+        - output
+        - realization_prompt
+        - playful_task
+      properties:
+        emotion:
+          type: string
+        quote:
+          type: string
+        output:
+          type: string
+        realization_prompt:
+          type: string
+        playful_task:
+          type: string
