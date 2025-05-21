@@ -1,0 +1,758 @@
+[
+  {
+    "emotion": "Joy",
+    "quote": "Joy flows when you embrace life’s simple moments.",
+    "output": "Joy is a spark that turns a regular day into something special, like laughing over a shared joke or feeling the sun’s warmth.",
+    "realization_prompt": "What small moment today brought you joy? How can you seek more of it?",
+    "playful_task": "Share a silly joke with someone and giggle together!"
+  },
+  {
+    "emotion": "Joy",
+    "quote": "In joy, the heart dances with the rhythm of life.",
+    "output": "Joy is an inner glow that shines through life’s ups and downs, connecting you to others in moments of delight.",
+    "realization_prompt": "When did you last feel truly joyful? What sparked it?",
+    "playful_task": "Crank up a favorite song and dance like nobody’s watching!"
+  },
+  {
+    "emotion": "Joy",
+    "quote": "Joy is the fragrance of a heart at peace with the present.",
+    "output": "Joy bubbles up when you pause to savor life’s gifts, from a kind word to a quiet evening.",
+    "realization_prompt": "How does joy feel in your body? Can you invite that feeling now?",
+    "playful_task": "Snap a photo of something that makes you smile today!"
+  },
+  {
+    "emotion": "Love",
+    "quote": "Love is not what you do; it’s what you become, connecting all hearts.",
+    "output": "Love weaves warmth into your day, from a smile to a deep conversation, making every bond richer.",
+    "realization_prompt": "Imagine loving without expecting anything—how would that change your interactions?",
+    "playful_task": "Slip a sweet note to someone you care about—spread the warmth!"
+  },
+  {
+    "emotion": "Love",
+    "quote": "Love is the thread that stitches hearts together in unity.",
+    "output": "Love transforms moments, like listening fully to a friend or sharing a quiet laugh, into lasting connections.",
+    "realization_prompt": "Who do you love deeply? How can you show it in a small way today?",
+    "playful_task": "Give someone a quick hug or a heartfelt compliment—feel the vibe!"
+  },
+  {
+    "emotion": "Love",
+    "quote": "Love is a flame that lights both giver and receiver.",
+    "output": "Love is the energy behind every kind gesture, making daily interactions with colleagues or family feel alive.",
+    "realization_prompt": "What does love mean to you? How can you embody it now?",
+    "playful_task": "Sneak a small treat to a coworker or friend—just because!"
+  },
+  {
+    "emotion": "Gratitude",
+    "quote": "Gratitude turns what we have into more than enough.",
+    "output": "Gratitude opens your eyes to life’s gifts, like a friend’s support or a warm meal, filling your heart with peace.",
+    "realization_prompt": "What’s one thing you’re thankful for today? How does it lift you?",
+    "playful_task": "Text someone a quick ‘thanks’ for something they did!"
+  },
+  {
+    "emotion": "Gratitude",
+    "quote": "In gratitude, every moment becomes a treasure.",
+    "output": "Gratitude shifts your view, turning small joys—like a sunny day or a kind word—into sources of deep contentment.",
+    "realization_prompt": "What do you often overlook that deserves thanks? How can you honor it?",
+    "playful_task": "Jot down three things you’re grateful for and share one with someone!"
+  },
+  {
+    "emotion": "Gratitude",
+    "quote": "Gratitude is the heart’s song of abundance.",
+    "output": "Gratitude makes every day richer, highlighting moments like a shared laugh or a quiet coffee break.",
+    "realization_prompt": "How does gratitude change your perspective? Can you feel it now?",
+    "playful_task": "Say ‘thank you’ out loud to something simple, like your morning tea!"
+  },
+  {
+    "emotion": "Pride",
+    "quote": "True pride is quiet strength in your own journey.",
+    "output": "Healthy pride celebrates your efforts without overshadowing others, like finishing a tough task or helping a friend.",
+    "realization_prompt": "What are you proud of? How does it reflect who you are?",
+    "playful_task": "Give yourself a high-five in the mirror for a recent win!"
+  },
+  {
+    "emotion": "Pride",
+    "quote": "Pride is honoring your growth while lifting others.",
+    "output": "Pride shines when you recognize your progress, like mastering a skill, and share that joy humbly.",
+    "realization_prompt": "What achievement makes you stand tall? How can you share its light?",
+    "playful_task": "Tell a friend about a small victory—keep it real!"
+  },
+  {
+    "emotion": "Pride",
+    "quote": "Pride is the heart’s nod to your unique path.",
+    "output": "Pride is a warm glow from knowing your worth, like when you push through a challenge or support someone.",
+    "realization_prompt": "When do you feel proud? How can you nurture that feeling?",
+    "playful_task": "Write a one-line brag about yourself and share it with a grin!"
+  },
+  {
+    "emotion": "Hope",
+    "quote": "Hope is the spark that lights the darkest paths.",
+    "output": "Hope keeps you moving forward, like dreaming of a better day or trusting in a new opportunity.",
+    "realization_prompt": "What gives you hope right now? How does it guide you?",
+    "playful_task": "Doodle a symbol of hope and keep it where you’ll see it!"
+  },
+  {
+    "emotion": "Hope",
+    "quote": "Hope is a whisper of possibility in every heart.",
+    "output": "Hope fuels your dreams, turning challenges into chances, like starting a new project or mending a bond.",
+    "realization_prompt": "What do you hope for? How can you take one step toward it?",
+    "playful_task": "Share a hopeful idea with someone—plant a seed!"
+  },
+  {
+    "emotion": "Hope",
+    "quote": "Hope is the courage to see beyond the moment.",
+    "output": "Hope lifts your spirit, like believing in a fresh start or finding light in tough times.",
+    "realization_prompt": "When has hope carried you? How can it inspire you today?",
+    "playful_task": "Write a hopeful wish on a sticky note and stick it up!"
+  },
+  {
+    "emotion": "Contentment",
+    "quote": "Contentment is finding peace in what is, right now.",
+    "output": "Contentment is a quiet joy, like savoring a calm evening or a good chat, free from wanting more.",
+    "realization_prompt": "What feels just right in your life today? How can you rest in it?",
+    "playful_task": "Sip a drink slowly and enjoy the moment—pure bliss!"
+  },
+  {
+    "emotion": "Contentment",
+    "quote": "In contentment, the heart rests in life’s embrace.",
+    "output": "Contentment turns simple moments, like a walk or a laugh, into sources of deep peace.",
+    "realization_prompt": "When do you feel content? How can you invite more of that calm?",
+    "playful_task": "Pause and smile at something small, like a cozy corner!"
+  },
+  {
+    "emotion": "Contentment",
+    "quote": "Contentment is the art of loving what you have.",
+    "output": "Contentment is a warm glow from appreciating life’s gifts, like a shared meal or a quiet day.",
+    "realization_prompt": "What’s enough for you right now? How does that feel?",
+    "playful_task": "Hug a pillow or pet and soak in the cozy vibes!"
+  },
+  {
+    "emotion": "Excitement",
+    "quote": "Excitement is life’s pulse, urging you forward.",
+    "output": "Excitement fuels your energy, like anticipating a new adventure or a fun plan with friends.",
+    "realization_prompt": "What excites you today? How can you lean into that buzz?",
+    "playful_task": "Do a little happy dance for something you’re pumped about!"
+  },
+  {
+    "emotion": "Excitement",
+    "quote": "Excitement is the heart’s leap toward possibility.",
+    "output": "Excitement makes moments pop, like planning a trip or diving into a new hobby.",
+    "realization_prompt": "What’s sparking your excitement? How can you share that energy?",
+    "playful_task": "Text a friend about something you’re thrilled for—hype it up!"
+  },
+  {
+    "emotion": "Excitement",
+    "quote": "Excitement is a fire that lights your next step.",
+    "output": "Excitement drives you to embrace life, like chasing a goal or laughing over a new idea.",
+    "realization_prompt": "When do you feel most excited? How can you spark it now?",
+    "playful_task": "Try a quick new thing, like a snack or a game—go wild!"
+  },
+  {
+    "emotion": "Relief",
+    "quote": "Relief is a breath of freedom after a storm.",
+    "output": "Relief washes over you, like finishing a tough day or resolving a worry, bringing calm.",
+    "realization_prompt": "What brought you relief recently? How did it free you?",
+    "playful_task": "Take a deep breath and stretch—let the tension fly away!"
+  },
+  {
+    "emotion": "Relief",
+    "quote": "Relief is the heart’s sigh when burdens lift.",
+    "output": "Relief feels like a weight off your shoulders, like solving a problem or hearing good news.",
+    "realization_prompt": "When did you last feel relieved? What can you let go of now?",
+    "playful_task": "Shake your arms out like you’re tossing worries—feel light!"
+  },
+  {
+    "emotion": "Relief",
+    "quote": "Relief is a quiet harbor after choppy seas.",
+    "output": "Relief restores peace, like making up with a friend or crossing off a big task.",
+    "realization_prompt": "What’s weighing you down? How would letting it go feel?",
+    "playful_task": "Blow out a big breath like you’re puffing away stress!"
+  },
+  {
+    "emotion": "Satisfaction",
+    "quote": "Satisfaction is joy in a job well done.",
+    "output": "Satisfaction warms your heart, like completing a project or helping someone out.",
+    "realization_prompt": "What effort are you proud of? How does it fulfill you?",
+    "playful_task": "Give yourself a cheeky wink for something you nailed!"
+  },
+  {
+    "emotion": "Satisfaction",
+    "quote": "Satisfaction is the heart’s nod to honest work.",
+    "output": "Satisfaction comes from giving your all, like finishing a task or making someone smile.",
+    "realization_prompt": "What makes you feel satisfied? How can you chase that feeling?",
+    "playful_task": "Pat yourself on the back—literally—for a recent effort!"
+  },
+  {
+    "emotion": "Satisfaction",
+    "quote": "Satisfaction is peace in your own effort.",
+    "output": "Satisfaction is a quiet pride, like knowing you did your best in a challenge or conversation.",
+    "realization_prompt": "When do you feel satisfied? How can you honor that work?",
+    "playful_task": "Celebrate a small win with a fist pump or cheer!"
+  },
+  {
+    "emotion": "Confidence",
+    "quote": "Confidence is trusting the strength within you.",
+    "output": "Confidence lets you shine, like speaking up in a meeting or trying something new.",
+    "realization_prompt": "What makes you feel confident? How can you tap into that today?",
+    "playful_task": "Strike a power pose and tackle a small challenge!"
+  },
+  {
+    "emotion": "Confidence",
+    "quote": "Confidence is the heart’s steady beat in uncertainty.",
+    "output": "Confidence grows from knowing your worth, like leading a group or sharing an idea.",
+    "realization_prompt": "When do you feel most confident? How can you build that strength?",
+    "playful_task": "Say ‘I got this!’ out loud before a task—own it!"
+  },
+  {
+    "emotion": "Confidence",
+    "quote": "Confidence is walking your path with quiet courage.",
+    "output": "Confidence is a spark that carries you, like standing tall in a tough moment or helping a friend.",
+    "realization_prompt": "What gives you inner strength? How can you show it now?",
+    "playful_task": "Wear something bold today and strut your stuff!"
+  },
+  {
+    "emotion": "Curiosity",
+    "quote": "Curiosity is the key to life’s endless wonders.",
+    "output": "Curiosity opens doors, like asking a friend about their world or exploring a new idea.",
+    "realization_prompt": "What are you curious about? How can it spark joy?",
+    "playful_task": "Ask someone about their favorite thing—dive in!"
+  },
+  {
+    "emotion": "Curiosity",
+    "quote": "Curiosity is a spark that lights the mind’s journey.",
+    "output": "Curiosity fuels growth, like wondering about a new skill or a stranger’s story.",
+    "realization_prompt": "What do you want to learn? How can you start exploring?",
+    "playful_task": "Google a random fun fact and share it with someone!"
+  },
+  {
+    "emotion": "Curiosity",
+    "quote": "Curiosity is the heart’s quest for truth.",
+    "output": "Curiosity keeps life fresh, like discovering a new hobby or asking ‘why’ in a chat.",
+    "realization_prompt": "What mystery pulls you? How can you chase it today?",
+    "playful_task": "Pick up a book or video on something new—get curious!"
+  },
+  {
+    "emotion": "Anticipation",
+    "quote": "Anticipation is the heart’s hum before a new dawn.",
+    "output": "Anticipation builds excitement, like waiting for a fun plan or a big moment.",
+    "realization_prompt": "What are you looking forward to? How does it lift your spirit?",
+    "playful_task": "Make a quick plan for something fun and hype it up!"
+  },
+  {
+    "emotion": "Anticipation",
+    "quote": "Anticipation is a spark for what’s yet to come.",
+    "output": "Anticipation adds zest, like counting down to a trip or a special meetup.",
+    "realization_prompt": "What’s on the horizon? How can you savor the wait?",
+    "playful_task": "Share what you’re excited about with a friend—build the buzz!"
+  },
+  {
+    "emotion": "Anticipation",
+    "quote": "Anticipation is the joy of life’s unfolding story.",
+    "output": "Anticipation fuels hope, like dreaming of a new goal or a fun event.",
+    "realization_prompt": "What do you eagerly await? How does it shape your day?",
+    "playful_task": "Mark a fun future date with a goofy calendar doodle!"
+  },
+  {
+    "emotion": "Confusion",
+    "quote": "Confusion is a pause before clarity finds you.",
+    "output": "Confusion signals a need to slow down, like when plans shift or ideas clash, opening the way to understanding.",
+    "realization_prompt": "What’s confusing you? How can a step back bring clarity?",
+    "playful_task": "Doodle your thoughts to untangle the mess—have fun!"
+  },
+  {
+    "emotion": "Confusion",
+    "quote": "In confusion, the heart seeks a clearer path.",
+    "output": "Confusion is a moment to reflect, like puzzling over a choice or a conversation, leading to insight.",
+    "realization_prompt": "What feels unclear? How can you trust the answers will come?",
+    "playful_task": "Ask a friend for their take on your puzzle—lighten it up!"
+  },
+  {
+    "emotion": "Confusion",
+    "quote": "Confusion is a cloud that clears with patience.",
+    "output": "Confusion invites you to pause, like when life feels jumbled, paving the way for new perspectives.",
+    "realization_prompt": "What’s muddying your thoughts? How can you let clarity emerge?",
+    "playful_task": "Write one question you’re stuck on and laugh at its tangle!"
+  },
+  {
+    "emotion": "Nostalgia",
+    "quote": "Nostalgia is a tender bridge to cherished times.",
+    "output": "Nostalgia warms your heart, like recalling old laughs or places, connecting past joys to now.",
+    "realization_prompt": "What memory tugs at you? How can it inspire today?",
+    "playful_task": "Share a fun old story with someone—relive the giggles!"
+  },
+  {
+    "emotion": "Nostalgia",
+    "quote": "Nostalgia is the heart’s soft echo of the past.",
+    "output": "Nostalgia brings back sweet moments, like a song or a childhood game, grounding you in love.",
+    "realization_prompt": "What old moment feels alive? How can you honor it?",
+    "playful_task": "Play a retro tune or game from your past—smile big!"
+  },
+  {
+    "emotion": "Nostalgia",
+    "quote": "Nostalgia is a whisper of life’s timeless joys.",
+    "output": "Nostalgia links you to happy times, like family dinners or old friends, enriching today’s moments.",
+    "realization_prompt": "What past joy do you miss? How can you bring its spirit back?",
+    "playful_task": "Text a friend about a shared memory—spark some laughs!"
+  },
+  {
+    "emotion": "Empathy",
+    "quote": "Empathy is feeling another’s heart as your own.",
+    "output": "Empathy builds bridges, like truly hearing a friend’s struggles or sharing their joy.",
+    "realization_prompt": "When did you feel someone’s emotions? How did it connect you?",
+    "playful_task": "Listen to someone’s story today—really hear their heart!"
+  },
+  {
+    "emotion": "Empathy",
+    "quote": "Empathy is the gift of walking in another’s shoes.",
+    "output": "Empathy deepens bonds, like understanding a colleague’s stress or a family member’s dreams.",
+    "realization_prompt": "Who needs your understanding? How can you offer it?",
+    "playful_task": "Ask someone how they’re really doing—show you care!"
+  },
+  {
+    "emotion": "Empathy",
+    "quote": "Empathy is love’s quiet language of connection.",
+    "output": "Empathy lets you share in others’ lives, like feeling a friend’s excitement or pain.",
+    "realization_prompt": "What does empathy teach you? How can you practice it today?",
+    "playful_task": "Smile warmly at someone struggling—lift their spirit!"
+  },
+  {
+    "emotion": "Indifference",
+    "quote": "Indifference dims life; care rekindles its glow.",
+    "output": "Indifference pulls you back, like ignoring a friend’s call, but caring sparks connection.",
+    "realization_prompt": "When do you feel indifferent? How can caring change that?",
+    "playful_task": "Do a tiny kind act, like holding a door—wake up your heart!"
+  },
+  {
+    "emotion": "Indifference",
+    "quote": "Indifference is a shadow; connection brings light.",
+    "output": "Indifference feels cold, like dismissing a moment, but reaching out warms your world.",
+    "realization_prompt": "What do you overlook? How can you engage with it?",
+    "playful_task": "Chat with someone you usually pass by—spark a moment!"
+  },
+  {
+    "emotion": "Indifference",
+    "quote": "Indifference fades when the heart chooses to see.",
+    "output": "Indifference disconnects, like shrugging off a chance to help, but care rebuilds bonds.",
+    "realization_prompt": "What’s easy to ignore? How would caring feel?",
+    "playful_task": "Smile at a stranger today—break the indifference!"
+  },
+  {
+    "emotion": "Surprise",
+    "quote": "Surprise is life’s gift of unexpected wonder.",
+    "output": "Surprise shakes up your day, like a kind gesture or sudden good news, opening your heart.",
+    "realization_prompt": "What surprised you lately? How did it shift your view?",
+    "playful_task": "Surprise someone with a random compliment—see their smile!"
+  },
+  {
+    "emotion": "Surprise",
+    "quote": "Surprise is a spark that wakes the heart.",
+    "output": "Surprise brings delight, like an unexpected call or a happy twist in your day.",
+    "realization_prompt": "When did a surprise lift you? How can you welcome more?",
+    "playful_task": "Leave a fun note for someone to find—spread the joy!"
+  },
+  {
+    "emotion": "Surprise",
+    "quote": "Surprise is life’s playful nudge to stay open.",
+    "output": "Surprise keeps life fresh, like a sudden laugh or an unplanned adventure.",
+    "realization_prompt": "What unexpected moment touched you? How can you stay open to it?",
+    "playful_task": "Try a new route or snack today—embrace the unexpected!"
+  },
+  {
+    "emotion": "Uncertainty",
+    "quote": "Uncertainty is where courage begins to bloom.",
+    "output": "Uncertainty feels shaky, like facing a new choice, but it invites trust in life’s flow.",
+    "realization_prompt": "What’s uncertain now? How can trusting ease your heart?",
+    "playful_task": "Flip a coin for a small choice—laugh at the outcome!"
+  },
+  {
+    "emotion": "Uncertainty",
+    "quote": "Uncertainty is a canvas for hope to paint.",
+    "output": "Uncertainty opens possibilities, like wondering what’s next in work or relationships.",
+    "realization_prompt": "What unknown scares you? How can you see it as opportunity?",
+    "playful_task": "Write a ‘what if’ idea for your future—dream big!"
+  },
+  {
+    "emotion": "Uncertainty",
+    "quote": "Uncertainty is a step toward life’s surprises.",
+    "output": "Uncertainty challenges you, like an unclear path, but it’s a chance to grow stronger.",
+    "realization_prompt": "When has uncertainty led to growth? How can it now?",
+    "playful_task": "Ask someone for advice on your ‘unknown’—lighten the load!"
+  },
+  {
+    "emotion": "Frustration",
+    "quote": "Frustration is a signal to pause and rethink.",
+    "output": "Frustration flares when things don’t go your way, like a stalled plan, but it’s a call to adapt.",
+    "realization_prompt": "What’s frustrating you? How can a new approach help?",
+    "playful_task": "Blow out a big breath and shake off the grump—reset!"
+  },
+  {
+    "emotion": "Frustration",
+    "quote": "Frustration is a nudge to find a better path.",
+    "output": "Frustration stings, like a tough talk or a stuck task, but it pushes you to grow.",
+    "realization_prompt": "What’s blocking you? How can you move around it?",
+    "playful_task": "Doodle your frustration as a cartoon—laugh at it!"
+  },
+  {
+    "emotion": "Frustration",
+    "quote": "Frustration fades with a shift in perspective.",
+    "output": "Frustration clouds your day, like delays or clashes, but patience clears the way.",
+    "realization_prompt": "What’s behind your frustration? How can you let it go?",
+    "playful_task": "Take a quick walk to cool off—stride it out!"
+  },
+  {
+    "emotion": "Anger",
+    "quote": "Anger burns, but kindness cools the heart.",
+    "output": "Anger flares up, like a heated argument or unfair moment, but it’s a chance to choose calm.",
+    "realization_prompt": "What sparks your anger? How can you respond with peace?",
+    "playful_task": "Breathe deep ten times—exhale the fire, inhale calm!"
+  },
+  {
+    "emotion": "Anger",
+    "quote": "Anger is a storm; patience is its anchor.",
+    "output": "Anger disrupts, like a clash with a friend, but stepping back restores your balance.",
+    "realization_prompt": "When does anger take over? How can you soften it?",
+    "playful_task": "Squeeze a stress ball or pillow—let the heat out!"
+  },
+  {
+    "emotion": "Anger",
+    "quote": "Anger clouds; compassion clears the way.",
+    "output": "Anger feels heavy, like a work dispute, but understanding others lightens your load.",
+    "realization_prompt": "What’s fueling your anger? How can kindness shift it?",
+    "playful_task": "Smile at something small to break anger’s grip!"
+  },
+  {
+    "emotion": "Anxiety",
+    "quote": "Anxiety fades when you ground in the now.",
+    "output": "Anxiety buzzes, like worrying about tomorrow, but focusing on now brings calm.",
+    "realization_prompt": "What’s making you anxious? How can you anchor in this moment?",
+    "playful_task": "Tap your feet and hum a tune—shake off the jitters!"
+  },
+  {
+    "emotion": "Anxiety",
+    "quote": "Anxiety is a shadow; presence is the light.",
+    "output": "Anxiety stirs, like overthinking a choice, but small actions ease your mind.",
+    "realization_prompt": "What’s swirling in your mind? How can you calm it?",
+    "playful_task": "Breathe slow and count to five—find your center!"
+  },
+  {
+    "emotion": "Anxiety",
+    "quote": "Anxiety lessens with each mindful step.",
+    "output": "Anxiety feels tight, like awaiting news, but grounding in the present soothes you.",
+    "realization_prompt": "What’s driving your worry? How can you let it rest?",
+    "playful_task": "Rub your hands together and feel the warmth—stay here!"
+  },
+  {
+    "emotion": "Guilt",
+    "quote": "Guilt is a call to forgive and move forward.",
+    "output": "Guilt weighs you down, like a past mistake, but it’s a chance to learn and heal.",
+    "realization_prompt": "What guilt do you hold? How can you release it?",
+    "playful_task": "Write a kind note to yourself—let it go!"
+  },
+  {
+    "emotion": "Guilt",
+    "quote": "Guilt is heavy; forgiveness is freedom.",
+    "output": "Guilt lingers, like hurting someone, but making amends lifts your heart.",
+    "realization_prompt": "What do you wish you’d done differently? How can you grow?",
+    "playful_task": "Say ‘I’m learning’ out loud—give yourself grace!"
+  },
+  {
+    "emotion": "Guilt",
+    "quote": "Guilt teaches; compassion heals.",
+    "output": "Guilt stings, like a broken promise, but understanding yourself opens the way to peace.",
+    "realization_prompt": "What lesson does your guilt offer? How can you embrace it?",
+    "playful_task": "Hug yourself and say ‘It’s okay’—start fresh!"
+  },
+  {
+    "emotion": "Shame",
+    "quote": "Shame fades in the light of self-compassion.",
+    "output": "Shame isolates, like feeling exposed, but accepting yourself brings freedom.",
+    "realization_prompt": "What makes you feel shame? How can you be kind to yourself?",
+    "playful_task": "Smile at yourself in the mirror—see your worth!"
+  },
+  {
+    "emotion": "Shame",
+    "quote": "Shame is a shadow; love is the light.",
+    "output": "Shame hurts, like a public mistake, but embracing your humanity heals.",
+    "realization_prompt": "When do you feel shame? How can you lift yourself up?",
+    "playful_task": "Write ‘I am enough’ and stick it where you’ll see it!"
+  },
+  {
+    "emotion": "Shame",
+    "quote": "Shame dissolves when you see your own heart.",
+    "output": "Shame feels heavy, like failing someone, but kindness to yourself restores joy.",
+    "realization_prompt": "What shame do you carry? How can you let it go?",
+    "playful_task": "Laugh at a small flaw—it’s just human!"
+  },
+  {
+    "emotion": "Loneliness",
+    "quote": "Loneliness is a nudge to reach out and connect.",
+    "output": "Loneliness aches, like missing a friend, but reaching out builds warmth.",
+    "realization_prompt": "When do you feel lonely? How can connection help?",
+    "playful_task": "Text a friend for a quick chat—share a laugh!"
+  },
+  {
+    "emotion": "Loneliness",
+    "quote": "Loneliness fades when hearts meet.",
+    "output": "Loneliness feels empty, like being apart, but a small gesture closes the gap.",
+    "realization_prompt": "Who makes you feel seen? How can you connect with them?",
+    "playful_task": "Call someone you miss—hear their voice!"
+  },
+  {
+    "emotion": "Loneliness",
+    "quote": "Loneliness is a call to weave new bonds.",
+    "output": "Loneliness stings, like a quiet night, but reaching out sparks joy.",
+    "realization_prompt": "What makes you feel alone? How can you bridge that gap?",
+    "playful_task": "Join a quick chat with someone new—say hi!"
+  },
+  {
+    "emotion": "Sadness",
+    "quote": "Sadness softens the heart for deeper joy.",
+    "output": "Sadness weighs heavy, like losing something dear, but it opens you to empathy.",
+    "realization_prompt": "What’s behind your sadness? How can it teach you?",
+    "playful_task": "Play an uplifting song and sway—lift your spirit!"
+  },
+  {
+    "emotion": "Sadness",
+    "quote": "Sadness is a teacher of the heart’s depth.",
+    "output": "Sadness lingers, like a tough day, but it helps you connect with others’ pain.",
+    "realization_prompt": "What does your sadness want to say? How can you listen?",
+    "playful_task": "Draw a picture of your mood—add a bright color!"
+  },
+  {
+    "emotion": "Sadness",
+    "quote": "Sadness passes, leaving wisdom in its wake.",
+    "output": "Sadness feels heavy, like missing someone, but it carves space for new light.",
+    "realization_prompt": "When has sadness led to growth? How can it now?",
+    "playful_task": "Watch a funny clip to spark a smile!"
+  },
+  {
+    "emotion": "Envy",
+    "quote": "Envy dims; gratitude restores your light.",
+    "output": "Envy stings, like wanting someone’s success, but focusing on your gifts heals.",
+    "realization_prompt": "What do you envy? How can you celebrate your own path?",
+    "playful_task": "Compliment someone you envy—turn it to joy!"
+  },
+  {
+    "emotion": "Envy",
+    "quote": "Envy is a shadow; your own shine clears it.",
+    "output": "Envy clouds your heart, like comparing lives, but your unique journey sparkles.",
+    "realization_prompt": "What sparks envy? How can you honor your own blessings?",
+    "playful_task": "List three things you love about your life—share one!"
+  },
+  {
+    "emotion": "Envy",
+    "quote": "Envy fades when you embrace your own gifts.",
+    "output": "Envy hurts, like eyeing someone’s win, but gratitude for your path brings peace.",
+    "realization_prompt": "What’s behind your envy? How can you find contentment?",
+    "playful_task": "Cheer for someone’s success today—join the vibe!"
+  },
+  {
+    "emotion": "Regret",
+    "quote": "Regret is a lesson, not a chain.",
+    "output": "Regret stings, like a missed chance, but it’s a chance to grow wiser.",
+    "realization_prompt": "What do you regret? How can you learn from it?",
+    "playful_task": "Write a regret, then rip it up—let it fly!"
+  },
+  {
+    "emotion": "Regret",
+    "quote": "Regret points to paths for growth.",
+    "output": "Regret feels heavy, like a wrong choice, but it guides you to better ones.",
+    "realization_prompt": "What regret holds you? How can you move forward?",
+    "playful_task": "Say ‘I’m growing’ and take a bold step today!"
+  },
+  {
+    "emotion": "Regret",
+    "quote": "Regret fades with each new step.",
+    "output": "Regret lingers, like a past mistake, but action now builds a brighter path.",
+    "realization_prompt": "What’s one regret? How can you make peace with it?",
+    "playful_task": "Do one small thing differently today—start fresh!"
+  },
+  {
+    "emotion": "Resentment",
+    "quote": "Resentment binds; forgiveness sets you free.",
+    "output": "Resentment festers, like holding a grudge, but letting go brings peace.",
+    "realization_prompt": "Who do you resent? How would forgiving them feel?",
+    "playful_task": "Write ‘I release you’ and crumple it—feel lighter!"
+  },
+  {
+    "emotion": "Resentment",
+    "quote": "Resentment is heavy; compassion lifts it.",
+    "output": "Resentment clouds your heart, like an old hurt, but understanding frees you.",
+    "realization_prompt": "What fuels your resentment? How can you soften it?",
+    "playful_task": "Smile at someone you’re upset with—break the ice!"
+  },
+  {
+    "emotion": "Resentment",
+    "quote": "Resentment fades when you choose to heal.",
+    "output": "Resentment stings, like a past wrong, but forgiveness opens your heart.",
+    "realization_prompt": "What’s holding your resentment? How can you let it go?",
+    "playful_task": "Say ‘I’m free’ out loud—shake off the grudge!"
+  },
+  {
+    "emotion": "Disappointment",
+    "quote": "Disappointment opens doors to new paths.",
+    "output": "Disappointment hurts, like a plan failing, but it points to unexpected possibilities.",
+    "realization_prompt": "What disappointed you? What new chance might it bring?",
+    "playful_task": "Try a new idea today—turn the page!"
+  },
+  {
+    "emotion": "Disappointment",
+    "quote": "Disappointment is a detour, not a dead end.",
+    "output": "Disappointment stings, like a letdown, but it’s a chance to find a better way.",
+    "realization_prompt": "What didn’t go as planned? How can you grow from it?",
+    "playful_task": "Laugh at a recent flop—it’s just a plot twist!"
+  },
+  {
+    "emotion": "Disappointment",
+    "quote": "Disappointment teaches trust in life’s flow.",
+    "output": "Disappointment feels heavy, like unmet hopes, but it leads to new horizons.",
+    "realization_prompt": "What loss taught you? How can you trust again?",
+    "playful_task": "Plan a tiny adventure—embrace the new!"
+  },
+  {
+    "emotion": "Fear",
+    "quote": "Fear is a shadow; courage is the light.",
+    "output": "Fear holds you back, like dreading a choice, but small steps dissolve it.",
+    "realization_prompt": "What scares you? How would facing it feel?",
+    "playful_task": "Take one brave step, like saying hi to someone new!"
+  },
+  {
+    "emotion": "Fear",
+    "quote": "Fear shrinks; boldness expands your world.",
+    "output": "Fear feels tight, like avoiding a risk, but courage opens new doors.",
+    "realization_prompt": "What fear limits you? How can you push past it?",
+    "playful_task": "Say ‘I’m fearless’ and try something small but bold!"
+  },
+  {
+    "emotion": "Fear",
+    "quote": "Fear fades when you trust your heart’s strength.",
+    "output": "Fear grips, like facing the unknown, but trusting life sets you free.",
+    "realization_prompt": "When has fear stopped you? How can you move forward?",
+    "playful_task": "Face a tiny fear today—feel the rush!"
+  },
+  {
+    "emotion": "Insecurity",
+    "quote": "Insecurity dims; your inner light shines.",
+    "output": "Insecurity doubts your worth, like feeling small, but recognizing your strengths lifts you.",
+    "realization_prompt": "What makes you insecure? How can you see your value?",
+    "playful_task": "Write one thing you’re great at—own it!"
+  },
+  {
+    "emotion": "Insecurity",
+    "quote": "Insecurity is a whisper; confidence is a song.",
+    "output": "Insecurity stings, like comparing yourself, but embracing your uniqueness heals.",
+    "realization_prompt": "When do you feel insecure? How can you stand tall?",
+    "playful_task": "Say ‘I’m awesome’ in the mirror—mean it!"
+  },
+  {
+    "emotion": "Insecurity",
+    "quote": "Insecurity fades when you trust your path.",
+    "output": "Insecurity clouds, like questioning your place, but your journey is enough.",
+    "realization_prompt": "What doubts hold you? How can you trust yourself?",
+    "playful_task": "Share a strength with a friend—shine bright!"
+  },
+  {
+    "emotion": "Jealousy",
+    "quote": "Jealousy clouds; gratitude clears the heart.",
+    "output": "Jealousy bites, like wanting another’s life, but focusing on your gifts brings peace.",
+    "realization_prompt": "What sparks jealousy? How can you celebrate your own path?",
+    "playful_task": "Cheer for someone’s win—join the joy!"
+  },
+  {
+    "emotion": "Jealousy",
+    "quote": "Jealousy is a shadow; your light dispels it.",
+    "output": "Jealousy stings, like eyeing someone’s success, but your own journey shines.",
+    "realization_prompt": "What do you covet? How can you find contentment?",
+    "playful_task": "Compliment someone you’re jealous of—flip it!"
+  },
+  {
+    "emotion": "Jealousy",
+    "quote": "Jealousy fades when you honor your own gifts.",
+    "output": "Jealousy hurts, like comparing paths, but gratitude for your life heals.",
+    "realization_prompt": "What’s behind your jealousy? How can you embrace your worth?",
+    "playful_task": "List three things you love about you—share one!"
+  },
+  {
+    "emotion": "Helplessness",
+    "quote": "Helplessness is a moment; strength is eternal.",
+    "output": "Helplessness feels heavy, like facing a big problem, but small actions empower you.",
+    "realization_prompt": "When do you feel helpless? How can one step help?",
+    "playful_task": "Ask someone for a tiny favor—team up!"
+  },
+  {
+    "emotion": "Helplessness",
+    "quote": "Helplessness fades when you reach for support.",
+    "output": "Helplessness overwhelms, like a tough situation, but connecting lifts you up.",
+    "realization_prompt": "What feels out of control? How can you find help?",
+    "playful_task": "Text a friend for advice—share the load!"
+  },
+  {
+    "emotion": "Helplessness",
+    "quote": "Helplessness is a call to find inner power.",
+    "output": "Helplessness stings, like being stuck, but even small moves spark hope.",
+    "realization_prompt": "What makes you feel powerless? How can you reclaim strength?",
+    "playful_task": "Do one tiny action toward a goal—feel the shift!"
+  },
+  {
+    "emotion": "Embarrassment",
+    "quote": "Embarrassment is fleeting; your worth lasts.",
+    "output": "Embarrassment stings, like a public slip, but laughing it off frees you.",
+    "realization_prompt": "What embarrassed you? How can you laugh at it now?",
+    "playful_task": "Share a funny oops moment with a friend—giggle!"
+  },
+  {
+    "emotion": "Embarrassment",
+    "quote": "Embarrassment is human; kindness heals it.",
+    "output": "Embarrassment feels hot, like a mistake noticed, but embracing it connects you.",
+    "realization_prompt": "When did you feel embarrassed? How can you let it go?",
+    "playful_task": "Laugh at a small goof today—it’s all good!"
+  },
+  {
+    "emotion": "Embarrassment",
+    "quote": "Embarrassment fades with a smile of acceptance.",
+    "output": "Embarrassment trips you up, like a silly blunder, but owning it brings ease.",
+    "realization_prompt": "What made you cringe? How can you see it lightly?",
+    "playful_task": "Tell a pal about a quirky mishap—make it fun!"
+  },
+  {
+    "emotion": "Boredom",
+    "quote": "Boredom is a call to rediscover wonder.",
+    "output": "Boredom feels flat, like a dull moment, but it’s a chance to find new joy.",
+    "realization_prompt": "What bores you? How can you spark curiosity?",
+    "playful_task": "Try a new snack or game—mix it up!"
+  },
+  {
+    "emotion": "Boredom",
+    "quote": "Boredom invites you to see life anew.",
+    "output": "Boredom drags, like a slow day, but small discoveries bring life back.",
+    "realization_prompt": "When do you feel bored? How can you find magic in now?",
+    "playful_task": "Doodle something wild to shake off the blahs!"
+  },
+  {
+    "emotion": "Boredom",
+    "quote": "Boredom is a nudge to explore life’s spark.",
+    "output": "Boredom feels stale, like routine, but a new angle refreshes your day.",
+    "realization_prompt": "What’s missing in your day? How can you add fun?",
+    "playful_task": "Ask someone about their weirdest hobby—get inspired!"
+  },
+  {
+    "emotion": "Irritation",
+    "quote": "Irritation tests patience; kindness wins.",
+    "output": "Irritation prickles, like a small annoyance, but a calm response soothes it.",
+    "realization_prompt": "What’s irritating you? How can you soften your reaction?",
+    "playful_task": "Laugh at something annoying—turn it to fun!"
+  },
+  {
+    "emotion": "Irritation",
+    "quote": "Irritation is brief; peace is lasting.",
+    "output": "Irritation flares, like a rude comment, but stepping back restores your calm.",
+    "realization_prompt": "What sets you off? How can you choose peace?",
+    "playful_task": "Breathe out the grump with a silly face!"
+  },
+  {
+    "emotion": "Irritation",
+    "quote": "Irritation clouds; a smile clears the air.",
+    "output": "Irritation nags, like a tiny frustration, but kindness shifts your mood.",
+    "realization_prompt": "What’s bugging you? How can you let it slide?",
+    "playful_task": "Wink at something irritating—make it a game!"
+  }
+]
