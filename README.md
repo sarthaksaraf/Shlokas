@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Shlokas 3D Emotion Explorer ✨</h1>
+  <h1> Shlokas 3D Emotion Explorer </h1>
   <p>An interactive, 3D visually stunning React application combining traditional shlokas with modern emotional reflection.</p>
 
   [![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev)
@@ -13,12 +13,12 @@
 
 ---
 
-## 📖 About the Project
+## About the Project
 
-**Shlokas** is an immersive web application designed to help users reflect on their emotions. By interacting with a beautiful ✨ 3D Starfield ✨ and a mystical 🏺 **Jar**, users can select how they are feeling, fetch relevant wisdom through traditional shlokas, and experience dynamic animated chits. 
+**Shlokas** is an immersive web application designed to help users reflect on their emotions. By interacting with a beautiful 3D Starfield and a mystical **Jar**, users can select how they are feeling, fetch relevant wisdom through traditional shlokas, and experience dynamic animated chits. 
 
 <details>
-<summary><b>🌈 View Screenshots</b> <i>(Click to expand)</i></summary>
+<summary><b> View Screenshots</b> <i>(Click to expand)</i></summary>
 <br>
 
 Here is a glimpse of the Shlokas 3D experience:
@@ -31,20 +31,20 @@ Here is a glimpse of the Shlokas 3D experience:
 
 ---
 
-## 🌟 Interactive Features
+##  Interactive Features
 
 <details>
-<summary>🏺 <b>3D Interactive Scene</b></summary>
+<summary> <b>3D Interactive Scene</b></summary>
 Powered by <code>@react-three/fiber</code> and <code>@react-three/drei</code>, the app features a responsive 3D environment including a floating spiritual jar, a glowing star field, and dynamic ground interactions.
 </details>
 
 <details>
-<summary>🎭 <b>Emotion-Based Guidance</b></summary>
+<summary> <b>Emotion-Based Guidance</b></summary>
 The scene provides "Emotion" buttons that allow the user to convey their current state. Based on these inputs, specific Chits displaying Shlokas and translations fly out toward the screen.
 </details>
 
 <details>
-<summary>💫 <b>GSAP Animations</b></summary>
+<summary><b>GSAP Animations</b></summary>
 Seamless, buttery-smooth transition animations using <code>gsap</code> to handle UI elements and 3D objects moving in space.
 </details>
 
@@ -72,7 +72,7 @@ The frontend comes built-in with a Modal to quickly generate a QR code of your l
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project locally, you will need to start both the backend server and the frontend development server.
 
@@ -99,7 +99,7 @@ npm run dev -- --host
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 <details>
 <summary><b>QR Code not opening on your phone?</b></summary>
