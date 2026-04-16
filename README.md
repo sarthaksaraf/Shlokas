@@ -49,7 +49,7 @@ Seamless, buttery-smooth transition animations using <code>gsap</code> to handle
 </details>
 
 <details>
-<summary>☁️ <b>Network QR Code Sharing</b></summary>
+<summary> <b>Network QR Code Sharing</b></summary>
 The frontend comes built-in with a Modal to quickly generate a QR code of your local IPv4 address, allowing you to instantly share the live experience with another device on the same local network!
 </details>
 
