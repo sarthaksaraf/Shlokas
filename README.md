@@ -99,17 +99,6 @@ npm run dev -- --host
 
 ---
 
-##  Troubleshooting
-
-<details>
-<summary><b>QR Code not opening on your phone?</b></summary>
-Ensure that both your computer and your phone are connected to the <b>exact same Wi-Fi network</b>. Also, check your computer's firewall settings to ensure that traffic over the Vite development port (usually <code>5173</code>) is allowed.
-</details>
-
-<details>
-<summary><b>Cannot connect to the backend?</b></summary>
-Double-check the <code>.env</code> file in your <code>shlok-backend</code> to ensure the MongoDB URI is configured properly, and make sure that Axios in the frontend is pointing to the correct backend endpoint (e.g., <code>http://localhost:5000</code>).
-</details>
 
 ---
 
