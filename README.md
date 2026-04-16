@@ -55,7 +55,7 @@ The frontend comes built-in with a Modal to quickly generate a QR code of your l
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend (`/shlok-frontend`)
 - **Framework & Build:** React 19, Vite
